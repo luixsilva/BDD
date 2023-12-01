@@ -5,15 +5,18 @@ Este projeto utiliza o Cucumber para o Desenvolvimento Orientado a Comportamento
 ## Cenários de Teste
 ### Cliente realiza saque de dinheiro 
 
+**Esquema do Cenário 1: Cliente especial com saldo negativo**
+
 @saldo_negativo
 
-Esquema do Cenário: Cliente especial com saldo negativo
 
 IMAGE
-### Cliente realiza saque de dinheiro 
+
+
+**Esquema do Cenário 2: Cliente comum com saldo negativo**
 
 @saldo_insuficiente
 
-Esquema do Cenário: Cliente comum com saldo negativo
+
 
 IMAGE
