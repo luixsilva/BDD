@@ -9,14 +9,13 @@ Este projeto utiliza o Cucumber para o Desenvolvimento Orientado a Comportamento
 
 @saldo_negativo
 
-
-IMAGE
+![cenario1](https://github.com/luixsilva/BDD/assets/113793929/aca82b89-59fa-4894-9301-0d49c3f6b04f)
 
 
 **Esquema do Cenário 2: Cliente comum com saldo negativo**
 
 @saldo_insuficiente
 
+![cenario2](https://github.com/luixsilva/BDD/assets/113793929/5f89aa8c-3582-4e46-abf4-b7c606bd4222)
 
-
-IMAGE
+## Resultados
